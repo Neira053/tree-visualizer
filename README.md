@@ -146,6 +146,7 @@ Simple and intuitive design
 Fully interview-ready and explainable
 
 ## 🗂️ Project Structure
+
 tree-visualizer/
 ├── frontend/
 │   ├── src/
@@ -375,6 +376,7 @@ Reset
 Simple, intuitive, and interview-ready design
 
 🗂️ Project Structure
+
 tree-visualizer/
 ├── frontend/
 │   ├── src/
@@ -390,6 +392,7 @@ tree-visualizer/
 │   │   └── App.jsx
 │   └── index.html
 └── README.md
+
 ⚙️ Installation & Setup
 📌 Prerequisites
 Node.js (v18 or higher)
